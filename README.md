@@ -92,7 +92,7 @@ A comprehensive IoT monitoring system that tracks electrical energy consumption 
 [![Blog](https://img.shields.io/badge/📖-Read%20My%20Blog-FF7139?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.dankehidayat.my.id)
 [![RSS](https://img.shields.io/badge/📡-RSS%20Feed-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.dankehidayat.my.id/index.xml)
 [![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dankehidayat)
-[![Email](https://img.shields.io/badge/📧-danke@dankehidayat.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnk.hidayat@gmail.com)
+[![Email](https://img.shields.io/badge/📧-dnk.hidayat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnk.hidayat@gmail.com)
 
 </div>
 
