@@ -1,114 +1,129 @@
-# Hi there, I'm Danke Hidayat! 👋
+<h1 align="center">
+  Hi there, I'm Danke Hidayat! 👋
+</h1>
 
-<div align="center">
+<p align="center">
+  <strong>IoT Developer • Embedded Systems • Junior Software Developer</strong>
+</p>
 
-<img width="240" height="533" src="https://github.com/user-attachments/assets/912dc2a3-61f9-486d-ab43-2b00a42f24fa">
+<p align="center">
+  Building bridges between physical hardware and digital solutions through innovative engineering
+</p>
 
-**IoT Developer | Embedded Systems Engineer | Junior Software Developer**
+<p align="center">
+  <a href="https://dankehidayat.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-2D3748?style=flat" alt="Portfolio">
+  </a>
+  <a href="mailto:contact@dankehidayat.my.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/dankehidayat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dankehidayat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat" alt="GitHub">
+  </a>
+</p>
 
-[![Blog](https://img.shields.io/badge/🌐-blog.dankehidayat.my.id-blue?style=for-the-badge)](https://blog.dankehidayat.my.id)
-[![RSS](https://img.shields.io/badge/📡-Subscribe%20RSS-orange?style=for-the-badge)](https://blog.dankehidayat.my.id/index.xml)
-[![Email](https://img.shields.io/badge/📧-Contact%20Me-red?style=for-the-badge)](mailto:dnk.hidayat@gmail.com)
+## 🛠️ Technologies & Tools
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
 
-## 🚀 About Me
+## 📝 Latest Blog Posts
 
-I'm a passionate IoT and embedded systems developer with expertise in creating innovative solutions that bridge the physical and digital worlds. Currently expanding my skills into mobile app development with Flutter!
+- **[Energy Monitoring System Calibration: Linear Regression Approach for Sensor Accuracy](https://dankehidayat.my.id/blog/energy-monitoring-calibration-linear-regression)**  
+  Exploring advanced calibration techniques for improving IoT sensor accuracy using linear regression analysis.
 
-<div align="center">
+- **[Implementing Mamdani Fuzzy Logic for Real-Time IoT-Based Electrical Energy and Room Temperature Monitoring](https://dankehidayat.my.id/blog/mamdani-fuzzy-logic-iot-energy-monitoring)**  
+  Applying Mamdani fuzzy logic to enhance energy efficiency identification and optimization in IoT systems.
 
-### 🛠️ Tech Stack & Skills
+<p align="center">
+  <a href="https://dankehidayat.my.id/blog">
+    <img src="https://img.shields.io/badge/Blog-FF7139?style=flat" alt="Blog">
+  </a>
+  <a href="https://dankehidayat.my.id/rss.xml">
+    <img src="https://img.shields.io/badge/RSS-FFA500?style=flat" alt="RSS">
+  </a>
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Featured Projects
 
-![IoT](https://img.shields.io/badge/Internet%20of%20Things-FF6B6B?style=for-the-badge&logo=iot&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-4ECDC4?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/Electronics-45B7D1?style=for-the-badge&logo=circuit-diagram&logoColor=white)
+### EcoBin Sorter - Smart Waste Classification
+IoT-based intelligent trash bin that automatically classifies waste into dry, wet, and metal categories using sensor fusion and automated sorting mechanisms.
 
-![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-6A0572?style=for-the-badge&logo=html5&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**Tech:** `ESP32` `Arduino` `Servo Motors` `Sensor Fusion` `WiFi`
 
-</div>
+### Office Energy Monitoring System
+Comprehensive IoT system for real-time monitoring of electrical energy consumption and environmental conditions with advanced calibration algorithms.
 
-## 🔥 Featured Project
+**Tech:** `ESP32` `PZEM-004T` `DHT11` `Blynk IoT` `Linear Regression`
 
-<div align="center">
+### FlowPoint Next - Web Dashboard
+Real-time energy monitoring dashboard built with Next.js and Vercel Postgres, featuring interactive charts and automatic data collection from IoT sensors.
 
-# Office Energy and Environment Monitoring IoT System
+**Tech:** `Next.js 15` `TypeScript` `PostgreSQL` `Recharts` `Vercel`
 
-</div>
+### FlowPoint - Mobile App
+Flutter-based mobile application for real-time energy monitoring and power quality analysis with Material You design and interactive charts.
 
-## 📋 Overview
-A comprehensive IoT monitoring system that tracks electrical energy consumption and environmental conditions using ESP32 microcontroller. The system integrates PZEM-004T for power monitoring and DHT11 for temperature/humidity sensing, with advanced calibration algorithms for improved accuracy.
+**Tech:** `Flutter` `Dart` `Blynk IoT` `FL Chart` `Material Design`
 
-<div align="center">
+## GitHub Stats
 
-| Blynk Dashboard | Blynk Dashboard | Hardware Schematic |
-|:---------------:|:---------------:|:------------------:|
-| <img width="240" height="533" src="https://github.com/user-attachments/assets/912dc2a3-61f9-486d-ab43-2b00a42f24fa"> | <img width="240" height="533" src="https://github.com/user-attachments/assets/38b05b3e-0596-4843-8f7a-c68e2ff991aa"> | <img width="240" height="360" src="https://github.com/user-attachments/assets/2fa6e24f-227e-4ad9-a243-f8f93257cdf7"> |
-| **Basic Overview** | **Detailed Overview** | **Connection Schematic** |
+<p align="center">
+  <a href="https://github.com/dankehidayat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dankehidayat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/dankehidayat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankehidayat&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
+  </a>
+</p>
 
-</div>
+## Currently Learning
 
-## ✨ Key Features
-- 🔌 **Real-time Power Monitoring**: Voltage, current, power, energy, frequency, and power factor
-- 🌡️ **Environmental Sensing**: Temperature and humidity monitoring with HTC-1 reference calibration
-- ☁️ **IoT Connectivity**: Blynk platform integration for remote monitoring
-- 📟 **LCD Display**: Real-time data visualization with rotating display modes
-- 📶 **WiFi Manager**: Easy network configuration without hardcoding credentials
-- 📊 **Data Logging**: Comprehensive serial monitoring with calibration analysis
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
 
-## 🎯 Current Focus
+## Connect With Me
 
-<div align="center">
-
-### 🌟 Learning Journey
-
-![Flutter](https://img.shields.io/badge/📱-Flutter%20Mobile%20App%20Development-blueviolet?style=for-the-badge)
-![IoT](https://img.shields.io/badge/🔗-Advanced%20IoT%20Solutions-green?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/⚡-Embedded%20Systems%20Optimization-yellow?style=for-the-badge)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Danke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dankehidayat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dankehidayat&layout=compact&theme=radical)
-
-</div>
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/📖-Read%20My%20Blog-FF7139?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.dankehidayat.my.id)
-[![RSS](https://img.shields.io/badge/📡-RSS%20Feed-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.dankehidayat.my.id/index.xml)
-[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dankehidayat)
-[![Email](https://img.shields.io/badge/📧-dnk.hidayat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnk.hidayat@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://dankehidayat.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-2D3748?style=flat" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/dankehidayat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn">
+  </a>
+  <a href="mailto:contact@dankehidayat.my.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat" alt="Email">
+  </a>
+  <a href="https://github.com/dankehidayat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>Turning complex challenges into elegant IoT solutions</i>
+</p>
 
-### 🚀 "Turning ideas into functional IoT solutions through code and circuitry"
-
-**⭐ Star my repositories if you find them interesting!**
-
-[![Visitors](https://komarev.com/ghpvc/?username=dankehidayat&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dankehidayat)
-
-</div>
-
----
-
-*Last updated: 4th October 2025*  
-*Building the future, one sensor at a time* 🔧
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dankehidayat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
