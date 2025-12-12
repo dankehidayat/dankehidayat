@@ -47,8 +47,8 @@
 
 - **[Automating Calibration and Report Generation with Google Colab](https://www.dankehidayat.my.id/blog/2025-10-17-automating-calibration-and-report-generation-with-google-colab/)**
 - **[Energy Monitoring System Calibration: Linear Regression Approach for Sensor Accuracy](https://www.dankehidayat.my.id/blog/2025-10-14-energy-monitoring-system-calibration-linear-regression-approach/)**  
-- **[Japanese Input with Mozc + Fcitx5 on Arch Linux (Wayland + Hyprland)](https://www.dankehidayat.my.id/blog/2025-04-18-japanese-input-with-mozc-fcitx5-arch-linux/)
-- **[Computers Were Faster When They Were Slower](https://www.dankehidayat.my.id/blog/2024-11-30-computers-were-faster-when-they-were-slower/)
+- **[Japanese Input with Mozc + Fcitx5 on Arch Linux (Wayland + Hyprland)](https://www.dankehidayat.my.id/blog/2025-04-18-japanese-input-with-mozc-fcitx5-arch-linux/)**
+- **[Computers Were Faster When They Were Slower](https://www.dankehidayat.my.id/blog/2024-11-30-computers-were-faster-when-they-were-slower/)**
 <p align="center">
   <a href="https://dankehidayat.my.id/blog">
     <img src="https://img.shields.io/badge/Blog-FF7139?style=flat" alt="Blog">
