@@ -9,8 +9,10 @@ software developer · writer
 
 <br>
 
-a quiet garden of ash and lilies. <br>
-weaving stories in black and white.
+a quiet garden of ash and lilies, <br>
+blooming softly against the winter cold. <br>
+weaving stories in black and white, <br>
+where gentle hands and quiet hearts unfold.
 
 <br><br>
 
