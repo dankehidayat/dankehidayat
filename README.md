@@ -1,137 +1,56 @@
-<h1 align="center">
-  Hi there, I'm Danke Hidayat! 👋
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>IoT Developer • Embedded Systems • Full-Stack Developer</strong>
-</p>
+# Danke Hidayat
 
-<p align="center">
-  Building bridges between physical hardware and digital solutions through innovative engineering
-</p>
+Software developer. Full-stack, DevOps, IoT.
 
-<p align="center">
-  <a href="https://dankehidayat.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-2D3748?style=flat" alt="Portfolio">
-  </a>
-  <a href="mailto:dnk.hidayat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/dankehidayat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn">
-  </a>
-  <a href="https://bsky.app/profile/dankehidayat.my.id">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
-  <a href="https://github.com/dankehidayat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat" alt="GitHub">
-  </a>
-</p>
+[Portfolio](https://dankehidayat.my.id) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/dankehidayat) &nbsp;|&nbsp; [Email](mailto:dnk.hidayat@gmail.com) &nbsp;|&nbsp; [Bluesky](https://bsky.app/profile/dankehidayat.my.id)
 
-## 🛠️ Technologies & Tools
+</div>
+
+<br>
+
+I build systems end to end: data model, API, interface, and the pipeline and infrastructure that keep them running. Currently working on clinical data platforms in Bandung, where correctness and traceability matter as much as delivery speed.
+
+## Focus
+
+- **Product engineering:** React, TypeScript, Fastify, PostgreSQL, Flutter
+- **Clinical data systems:** CDISC SDTM tooling, registries, LangGraph assisted annotation
+- **DevOps:** GitHub Actions, Trivy, Ansible, Docker Compose, Caddy, Infisical
+- **IoT and embedded:** ESP32 firmware, sensor calibration, device to dashboard data paths
+
+## Selected Work
+
+- **Selene**: real-time energy and climate dashboard with fuzzy inference engines and forecasting. `React` `Fastify` `TimescaleDB`
+- **FlowPoint**: power quality monitoring on mobile and web. `Flutter` `Next.js` `Prisma`
+- **EcoOffice**: ESP32 energy and room monitoring with regression calibration. `ESP32` `C++` `Blynk`
+- **EcoBin Sorter**: sensor fusion waste classification bin. `ESP32` `Arduino`
+
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify">
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black" alt="TimescaleDB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-24292f?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Dart-24292f?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Fastify-24292f?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Flutter-24292f?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-24292f?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Ansible-24292f?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Caddy-24292f?style=flat-square&logo=caddy&logoColor=white" alt="Caddy">
+  <img src="https://img.shields.io/badge/ESP32-24292f?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
 </p>
 
-## 📝 Latest Blog Posts
-
-- **[Automating Calibration and Report Generation with Google Colab](https://www.dankehidayat.my.id/blog/2025-10-17-automating-calibration-and-report-generation-with-google-colab/)**
-- **[Energy Monitoring System Calibration: Linear Regression Approach for Sensor Accuracy](https://www.dankehidayat.my.id/blog/2025-10-14-energy-monitoring-system-calibration-linear-regression-approach/)**
-- **[Japanese Input with Mozc + Fcitx5 on Arch Linux (Wayland + Hyprland)](https://www.dankehidayat.my.id/blog/2025-04-18-japanese-input-with-mozc-fcitx5-arch-linux/)**
-- **[Computers Were Faster When They Were Slower](https://www.dankehidayat.my.id/blog/2024-11-30-computers-were-faster-when-they-were-slower/)**
+## Stats
 
 <p align="center">
-  <a href="https://dankehidayat.my.id/blog">
-    <img src="https://img.shields.io/badge/Blog-FF7139?style=flat" alt="Blog">
-  </a>
-  <a href="https://dankehidayat.my.id/rss.xml">
-    <img src="https://img.shields.io/badge/RSS-FFA500?style=flat" alt="RSS">
-  </a>
-</p>
-
-## Featured Projects
-
-### Selene — Smart Energy & Climate Dashboard
-Real-time monitoring and analytics platform for ESP32-based IoT sensors. Features dual Mamdani fuzzy inference engines (15-rule energy, 14-rule climate), ML-powered forecasting with linear regression and pattern matching, role-based access control, and TimescaleDB time-series storage with automated Blynk polling.
-
-**Tech:** `React 18` `TypeScript` `Fastify` `Bun` `PostgreSQL` `TimescaleDB` `Prisma` `Recharts` `Tailwind CSS` `Docker`
-
-### EcoBin Sorter — Smart Waste Classification
-IoT-based intelligent trash bin that automatically classifies waste into dry, wet, and metal categories using sensor fusion and automated sorting mechanisms.
-
-**Tech:** `ESP32` `Arduino` `Servo Motors` `Sensor Fusion` `WiFi`
-
-### Office Energy Monitoring System
-Comprehensive IoT system for real-time monitoring of electrical energy consumption and environmental conditions with advanced calibration algorithms.
-
-**Tech:** `ESP32` `PZEM-004T` `DHT11` `Blynk IoT` `Linear Regression`
-
-### FlowPoint — Mobile App
-Flutter-based mobile application for real-time energy monitoring and power quality analysis with Material You design and interactive charts.
-
-**Tech:** `Flutter` `Dart` `Blynk IoT` `FL Chart` `Material Design`
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/dankehidayat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dankehidayat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/dankehidayat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankehidayat&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
-  </a>
-</p>
-
-## Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-326CE5?style=flat&logo=timescale&logoColor=white" alt="Time Series">
-  <img src="https://img.shields.io/badge/System_Design-2D3748?style=flat" alt="System Design">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://dankehidayat.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-2D3748?style=flat" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/dankehidayat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn">
-  </a>
-  <a href="https://bsky.app/profile/dankehidayat.my.id">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
-  <a href="mailto:dnk.hidayat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat" alt="Email">
-  </a>
-  <a href="https://github.com/dankehidayat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat" alt="GitHub">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Turning complex challenges into elegant IoT solutions</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dankehidayat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dankehidayat&hide_border=true&theme=transparent&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=dankehidayat&hide_border=true&theme=transparent&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a">
+  </picture>
 </p>
